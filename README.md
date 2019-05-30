@@ -1,5 +1,5 @@
 # WhoEatsPizza
-Created with CodeSandbox
+Created with CodeSandbox - https://codesandbox.io/s/github/Trinnitty/WhoEatsPizza/tree/master/
 
 Task - Who eats pizza?
 We're going to have a party soon. Fortunately, somebody has created an API https://gp-js-test.herokuapp.com/pizza which returns the list of participants for this party. And our mama will make a pizza for us. There is only one issue - we don't know how to split this pizza evenly - that's why we need your help. 
