@@ -1,0 +1,55 @@
+body {
+  font-family: sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+button {
+  width: 200px;
+  height: 40px;
+  background: yellow;
+  color: brown;
+  font-size: 30px;
+  margin: 20px;
+  border: 2px solid brown;
+  border-radius: 5%;
+  &:hover {
+    color: red;
+  }
+  &:active {
+    background-color: #fff;
+  }
+}
+
+.loading {
+    background: green;
+  }
+
+.circle {
+  width: 200px;
+  height: 200px;
+  border: 20px solid orange;
+  border-radius: 50%; 
+  background-color: red;
+  display: flex;
+  justify-content: center;
+  position: relative;
+}  
+
+#app {
+  font-size: 20px;
+  font-family: serif;
+  color:brown;
+}
+
+.sliceLine {
+  width: 0.5px;
+  height: 240px;
+  background-color:brown;
+  position: absolute;
+  bottom: -10%;
+  left: 50%;
+  box-sizing: border-box;
+}

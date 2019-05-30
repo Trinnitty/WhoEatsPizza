@@ -1,2 +1,0 @@
-# WhoEatsPizza
-Created with CodeSandbox
